@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'sportify-clone-front';
+  title = 'sportify-clone-front starting';
 }
